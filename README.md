@@ -1,8 +1,8 @@
 # RFI & Change Order Tracker
 
-**Live demo:** https://aws-construction-tracker.vercel.app
+**Sample demo:** https://aws-construction-tracker.vercel.app
 
-A full-stack construction project management tool built to demonstrate production-grade engineering for AWS Data Center expansion projects. Tracks RFIs, submittals, change orders, OFM equipment, and vendor onboarding — with CSV/PDF export on every module.
+A streamlined project management tool designed to validate an integrated data pipeline for large-scale construction expansions. Built for environments with zero margin for error, the underlying architecture demonstrates how to intuitively track critical deliverables at scale. The system shows how to integrate the tracking of RFIs, submittals, change orders, owner-furnished materials (OFM), and vendor onboarding, featuring standard CSV and PDF export capabilities across all modules
 
 ---
 
